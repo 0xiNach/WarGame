@@ -26,4 +26,4 @@ cd <path-to-WarGame-directory>
 python main.py --player_names='Scooby, Shaggy'
 ```
 
-Currently War game suppoort only two players.
+Currently War game support only two players.
